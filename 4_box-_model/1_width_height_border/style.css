@@ -9,3 +9,13 @@
     width: 200px;
 }
 
+.imagem_width{
+    width: 400px;
+}
+
+.caixa_height{
+    border: 1px dashed greenyellow;
+
+    height:100px ;
+    width: 100px;
+}

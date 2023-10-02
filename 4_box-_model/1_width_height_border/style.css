@@ -1,0 +1,11 @@
+.caixa_width{
+    /* louco */
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+/* varios valores na mesma propriedade */
+    border: 2px solid red;
+
+    width: 200px;
+}
+
